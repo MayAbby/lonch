@@ -3,6 +3,9 @@
     <img src="./assets/logo.png">
     <router-view/>
   </div>
+  <div>
+    <span>测试添加后Git提交前</span>  
+  </div>
 </template>
 
 <script>
